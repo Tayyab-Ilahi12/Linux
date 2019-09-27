@@ -1,6 +1,8 @@
 # Linux
 In this i have worked on Shell Scripting for different tasks and also have worked with commands to manipulate different background source files.
-OS Assignment 1:
+////////////////
+
+#OS Assignment 1:
 1) It explains the Core Functionalities of Linux.
 2) Different Layers of Linux(UBUNTU)
 3) Difference between Ubuntu and Debian 9
